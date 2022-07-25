@@ -2,7 +2,7 @@
 
 Aula de GitHub- Criação de contas
 
-Olá alunos, tudo bem? Vamos realizar novos proj etos.
+Olá alunos, tudo bem? Vamos realizar novos projetos.
 
 #  Linguagens
 HTML
